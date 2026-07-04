@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalyanreddy1486/DSA/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -21,8 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalyanreddy1486/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalyanreddy1486/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
