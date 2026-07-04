@@ -23,13 +23,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalyanreddy1486/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/kalyanreddy1486/DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalyanreddy1486/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/kalyanreddy1486/DSA/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kalyanreddy1486/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
