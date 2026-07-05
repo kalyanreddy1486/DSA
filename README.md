@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalyanreddy1486/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalyanreddy1486/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanreddy1486/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalyanreddy1486/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kalyanreddy1486/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kalyanreddy1486/DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
