@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kalyanreddy1486/DSA/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalyanreddy1486/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kalyanreddy1486/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/kalyanreddy1486/DSA/tree/master/0649-dota2-senate) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kalyanreddy1486/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
