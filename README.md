@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanreddy1486/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalyanreddy1486/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kalyanreddy1486/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kalyanreddy1486/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
