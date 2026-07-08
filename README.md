@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kalyanreddy1486/DSA/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/kalyanreddy1486/DSA/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalyanreddy1486/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/kalyanreddy1486/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kalyanreddy1486/DSA/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalyanreddy1486/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/kalyanreddy1486/DSA/tree/master/0242-valid-anagram) |
 ## Monotonic Stack
 |  |
 | ------- |
