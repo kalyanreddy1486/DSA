@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kalyanreddy1486/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalyanreddy1486/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/kalyanreddy1486/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalyanreddy1486/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/kalyanreddy1486/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalyanreddy1486/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/kalyanreddy1486/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalyanreddy1486/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kalyanreddy1486/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
