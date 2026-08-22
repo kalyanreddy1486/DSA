@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kalyanreddy1486/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalyanreddy1486/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/kalyanreddy1486/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/kalyanreddy1486/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kalyanreddy1486/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalyanreddy1486/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/kalyanreddy1486/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kalyanreddy1486/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kalyanreddy1486/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanreddy1486/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
