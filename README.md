@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kalyanreddy1486/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/kalyanreddy1486/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/kalyanreddy1486/DSA/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kalyanreddy1486/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kalyanreddy1486/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kalyanreddy1486/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/kalyanreddy1486/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kalyanreddy1486/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kalyanreddy1486/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
