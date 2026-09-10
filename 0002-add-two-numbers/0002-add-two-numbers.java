@@ -25,20 +25,15 @@ class Solution {
             }
             if(sum>9){
                 curr.next = new ListNode(sum%10);
-                carry = sum/ 10;
+                carry = sum/10;
             }
             else{
                 curr.next = new ListNode(sum);
                 carry = 0;
-                
             }
             curr = curr.next;
-
-            
         }
         return dummy.next;
-
-
         
     }
 }
