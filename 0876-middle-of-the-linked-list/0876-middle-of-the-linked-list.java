@@ -10,24 +10,20 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode temp = dummy;
-        int size  = size(head);
-        for(int i = 0 ; i<size/2 ; i++){
-            temp = temp.next;
+        ListNode curr = head;
+        int h = findh(head);
+        for(int i = 0 ; i<h/2 ; i++){
+            curr = curr.next;
         }
-        return temp.next;
-
+        return curr;
         
     }
-    public int size(ListNode head){
-        int s = 0;
-        ListNode temp = head;
-        while(temp != null){
-            s++;
-            temp = temp.next;
+    public int findh(ListNode head){
+        int h = 0;
+        while(head != null){
+            h++;
+            head = head.next;
         }
-        return s;
+        return h;
     }
 }
